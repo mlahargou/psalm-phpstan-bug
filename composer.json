@@ -1,0 +1,6 @@
+{
+   "require-dev": {
+       "vimeo/psalm": "dev-master",
+       "phpstan/phpstan": "2.1.1"
+   }
+}
